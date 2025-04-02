@@ -1,0 +1,22 @@
+body{
+    background-color: #FFF7F3;
+    font-family: Barlow, serif;
+}
+.dash-graph{
+    border: 6px solid #FF9A9A;
+
+}
+div#area_radio{
+    display: flex;
+    flex-direction: row;
+    align-content: space-evenly
+
+}
+input{
+    border: 3px solid #FFF;
+    accent-color: #E6B2BA;
+    height: 15px;
+    width: 15px;
+    box-shadow: 0 0 0 1px #E6B2BA;
+    border-radius: 100%;
+}
